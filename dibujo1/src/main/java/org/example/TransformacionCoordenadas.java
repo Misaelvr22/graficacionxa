@@ -186,7 +186,7 @@ public class TransformacionCoordenadas extends JFrame {
             r+=0.0015;
         }
 
-        // parabola, funcion seno, rosa de petalos, funcio de parabolaf(x), grafica cicloide, dibujar un espiral
+        // parabola, funcion seno, rosa de petalos, funcio de parabolaf(x2), grafica cicloide, dibujar un espiral
 
     }
 
